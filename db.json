@@ -9,24 +9,6 @@
     { "TIME": "2019-02-07 15:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "139", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
     { "TIME": "2019-02-07 11:43:01", "AS": "Telenet S.A.", "DOWN": "130", "UP": "140", "JITTER": "2", "RTT": "1", "LOSTPCK": "0.5" },
     { "TIME": "2019-02-07 07:42:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-07 03:41:01", "AS": "Telenet S.A.", "DOWN": "137", "UP": "130", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-		{ "TIME": "2019-02-06 23:49:01", "AS": "Telenet S.A.", "DOWN": "126", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
-    { "TIME": "2019-02-06 19:48:01", "AS": "Telenet S.A.", "DOWN": "131", "UP": "137", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-06 15:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "126", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-    { "TIME": "2019-02-06 11:43:01", "AS": "Telenet S.A.", "DOWN": "139", "UP": "131", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-06 07:42:01", "AS": "Telenet S.A.", "DOWN": "140", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
-    { "TIME": "2019-02-06 03:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "139", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-		{ "TIME": "2019-02-05 23:49:01", "AS": "Telenet S.A.", "DOWN": "130", "UP": "140", "JITTER": "2", "RTT": "1", "LOSTPCK": "0.5" },
-    { "TIME": "2019-02-05 19:48:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-05 15:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "130", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-    { "TIME": "2019-02-05 11:43:01", "AS": "Telenet S.A.", "DOWN": "137", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
-    { "TIME": "2019-02-05 07:42:01", "AS": "Telenet S.A.", "DOWN": "126", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-05 03:41:01", "AS": "Telenet S.A.", "DOWN": "131", "UP": "137", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },    
-		{ "TIME": "2019-02-04 23:49:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "126", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-04 19:48:01", "AS": "Telenet S.A.", "DOWN": "139", "UP": "131", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
-    { "TIME": "2019-02-04 15:41:01", "AS": "Telenet S.A.", "DOWN": "140", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-    { "TIME": "2019-02-04 11:43:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "139", "JITTER": "2", "RTT": "1", "LOSTPCK": "0.5" },
-    { "TIME": "2019-02-04 07:42:01", "AS": "Telenet S.A.", "DOWN": "130", "UP": "140", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-04 03:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" }
+    { "TIME": "2019-02-07 03:41:01", "AS": "Telenet S.A.", "DOWN": "137", "UP": "130", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" }
 	]
 }
