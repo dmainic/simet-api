@@ -1,12 +1,12 @@
 {
   "data": [
-    { "TIME": "2019-02-08 15:44:01", "AS": "Telenet S.A.", "DOWN": "137", "UP": "192", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-    { "TIME": "2019-02-08 11:43:01", "AS": "Telenet S.A.", "DOWN": "126", "UP": "132", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
-    { "TIME": "2019-02-08 07:42:01", "AS": "Telenet S.A.", "DOWN": "131", "UP": "137", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-08 03:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "126", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-    { "TIME": "2019-02-07 23:49:01", "AS": "Telenet S.A.", "DOWN": "139", "UP": "131", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
-    { "TIME": "2019-02-07 19:48:01", "AS": "Telenet S.A.", "DOWN": "140", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
-    { "TIME": "2019-02-07 15:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "139", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
-    { "TIME": "2019-02-07 03:41:01", "AS": "Telenet S.A.", "DOWN": "137", "UP": "130", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" }
+    { "TIME": "2019-02-08T15:44:01", "AS": "Telenet S.A.", "DOWN": "137", "UP": "192", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
+    { "TIME": "2019-02-08T11:43:01", "AS": "Telenet S.A.", "DOWN": "126", "UP": "132", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
+    { "TIME": "2019-02-08T07:42:01", "AS": "Telenet S.A.", "DOWN": "131", "UP": "137", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
+    { "TIME": "2019-02-08T03:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "126", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
+    { "TIME": "2019-02-07T23:49:01", "AS": "Telenet S.A.", "DOWN": "139", "UP": "131", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.5" },
+    { "TIME": "2019-02-07T19:48:01", "AS": "Telenet S.A.", "DOWN": "140", "UP": "138", "JITTER": "2", "RTT": "1", "LOSTPCK": "2.0" },
+    { "TIME": "2019-02-07T15:41:01", "AS": "Telenet S.A.", "DOWN": "138", "UP": "139", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" },
+    { "TIME": "2019-02-07T03:41:01", "AS": "Telenet S.A.", "DOWN": "137", "UP": "130", "JITTER": "2", "RTT": "1", "LOSTPCK": "1.5" }
 ]
 }
